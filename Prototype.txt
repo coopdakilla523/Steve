@@ -1,0 +1,14 @@
+Prototype
+
+2 platforms..with player capable of jumping to the other while starting on one.
+
+
+To Do List:
+
+1. Fix sprites
+
+2. Clean up code(always)
+
+3. Figure out gravity and jumping
+
+4. Keep doing more things
